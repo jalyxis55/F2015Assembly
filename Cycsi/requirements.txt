@@ -1,0 +1,3 @@
+sphinx
+fabric
+sphinx-bootstrap-theme
